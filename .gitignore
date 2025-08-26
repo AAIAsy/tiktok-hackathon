@@ -1,0 +1,9 @@
+# Ignore virtual environments
+.hackathon/
+.venv/
+
+# Ignore datasets
+datasets/
+
+# Ignore .env file (THIS IS PRIVATE!!! Always keep it hidden and secret on your own local computer.)
+.env
