@@ -2,8 +2,14 @@
 
 This repo is created for a hackathon challenge by TikTok.
 
-## Objective
+## Overview
 
+### Problem statement
+
+Online reviews play a crucial role in shaping public perception of local businesses and locations. However, the presence of irrelevant, misleading, or low-quality reviews can distort the true reputation of a place. With the proliferation of user-generated content, ensuring the quality and relevancy of reviews is more important than ever.
+This hackathon challenges students to leverage Machine Learning (ML) and Natural Language Processing (NLP) to automatically assess the quality and relevancy of Google location reviews, aligning them with a set of well-defined policies. The ultimate goal is to improve the reliability of review platforms and enhance user experience.
+
+### Obejctives
 The objective set out by TikTok is outlined as follows:
 
 - Gauge review quality: Detect spam, advertisements, irrelevant content, and rants from users who have likely never visited the location.
