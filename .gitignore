@@ -10,3 +10,17 @@ datasets/
 
 # Ignore research papers
 research-papers/
+
+# Ignore output directories (for internal testing)
+batches/
+batch_results/
+output/
+
+# Ignore Spark artifacts
+artifacts/
+
+# Ignore jsonl files
+*.jsonl
+
+# Ignore unnecesary files
+report-summary.ipynb
