@@ -24,3 +24,12 @@ artifacts/
 
 # Ignore unnecesary files
 report-summary.ipynb
+
+# Ignore csv
+*.csv
+
+# Ignore zip
+*.zip
+
+# Ignore .DS_Store
+.DS_Store
