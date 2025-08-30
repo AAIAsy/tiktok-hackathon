@@ -1,6 +1,7 @@
 # Ignore virtual environments
 .hackathon/
 .venv/
+.venv_hackathon/
 
 # Ignore datasets
 datasets/
@@ -15,6 +16,7 @@ research-papers/
 batches/
 batch_results/
 output/
+batch_results_1/
 
 # Ignore Spark artifacts
 artifacts/
@@ -33,3 +35,6 @@ report-summary.ipynb
 
 # Ignore .DS_Store
 .DS_Store
+
+# ignore markdown
+notes-markdown
