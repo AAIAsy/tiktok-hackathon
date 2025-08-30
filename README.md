@@ -83,7 +83,7 @@ TF-IDF is used to see how important words are in each dataset.
 
 # Setup
 
-The notebook can be run on a local machine, but the installation process is very complicated for both Mac and Windows. The simplest way to start setting the project up is download the to your local machine and uploading it on Google Colab.
+The notebook can be run on a local machine, but the installation process is very complicated for both Mac and Windows. The simplest way to start setting the project up is to download the `hackathon.ipynb` file to your local machine and uploading it on Google Colab.
 
 1. Download any number of review and metadata files in the Google Local Reviews dataset page. and 
 2. Click on "Runtime" on the top toolbar and select CPU runtime, as GPU is not needed. Upload the files to Google Colab.
