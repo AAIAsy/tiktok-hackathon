@@ -100,6 +100,3 @@ There are some limitations to take note of:
 2. following data preprocessing, we have obtained 0 records for RANT WITHOUT VISIT label, and this is due to using statistics to label rather than manual labelling due to large amounts of data and time-cosuming to do so.
 3. the model is confused between RELEVANT and IRRELEVANT labels due to overlapping words that belong to those categories upon TF-IDF inspections.
 4. `gpt-4o-mini` was used to aid in labelling through few-shot examples, but after thorough analysis, the model did not correctly label the reviews as per instructions, thus skewing almost all reviews as RELEVANT. 
-
-
-
